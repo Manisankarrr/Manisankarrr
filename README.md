@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Backend & DevOps Engineer | AWS Enthusiast</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on an e-commerce website using the MERN stack  
+🔭 I’m currently working on an Suscription Tracker  
 🌟 I have completed a real-time chat application  
 🌱 I’m currently learning AWS, DevOps Tools, and Cloud Technologies  
 💬 Ask me about Full Stack Development & Cloud Deployment  
