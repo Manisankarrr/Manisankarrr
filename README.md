@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manisankar</h1>
-<h3 align="center">Aspiring Full Stack & DevOps Engineer | AWS Enthusiast</h3>
+<h3 align="center">Aspiring Backend & DevOps Engineer | AWS Enthusiast</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on an e-commerce website using the MERN stack  
