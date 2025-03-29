@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manisankar</h1>
+<h1 align="center">Hi 👋, I'm Mani Sankar</h1>
 <h3 align="center">Aspiring Backend & DevOps Engineer | AWS Enthusiast</h3>
 
 # 💫 About Me:
