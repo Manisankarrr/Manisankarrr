@@ -1,13 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mani Sankar</h1>
-<h3 align="center">Aspiring Backend & DevOps Engineer | AWS Enthusiast</h3>
+<h1 align="center">Yoo 👋, I'm Mani Sankar</h1>
+<h3 align="center">Bridging intelligent systems and cloud automation</h3>
 
-# 💫 About Me:
-🔭 I’m currently working on an Suscription Tracker  
-🌟 I have completed a real-time chat application  
-🌱 I’m currently learning AWS, DevOps Tools, and Cloud Technologies  
-💬 Ask me about Full Stack Development & Cloud Deployment  
-
----
+![Profile Views](https://komarev.com/ghpvc/?username=Manisankarrr&color=2d2d2d&labelColor=ffffff&style=flat-square)
 
 ## 🌐 Connect with Me:
 <p align="center">
