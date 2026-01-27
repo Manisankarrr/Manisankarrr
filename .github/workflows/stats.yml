@@ -16,18 +16,26 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate stats card
-        uses: Pranesh-2005/github-readme-stats-fast-action@v1
+        uses: Pranesh-2005/github-readme-stats-fast-action@v1.2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}
+          options: username=${{ github.repository_owner }}&theme=dark&hide_border=false&include_all_commits=false&count_private=false
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate streak card
-        uses: Pranesh-2005/github-readme-stats-fast-action@v1
+      - name: Generate Top Languages card
+        uses: Pranesh-2005/github-readme-stats-fast-action@v1.2
         with:
           card: streak
-          options: username=${{ github.repository_owner }}
+          options: username=${{ github.repository_owner }}&theme=dark&hide_border=false
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak card
+        uses: Pranesh-2005/github-readme-stats-fast-action@v1.2
+        with:
+          card: streak
+          options: username=${{ github.repository_owner }}&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
