@@ -27,7 +27,7 @@ jobs:
         uses: Pranesh-2005/github-readme-stats-fast-action@v1.2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&theme=dark&hide_border=false
+          options: username=${{ github.repository_owner }}&theme=dark&hide_border=false&langs_count=6
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
